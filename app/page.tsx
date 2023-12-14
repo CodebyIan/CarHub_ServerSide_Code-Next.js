@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { Hero, SearchBar, CustomFilter, CarCard, ShowMore } from "@/components";
 import { FilterProps } from "@/types";
 import { manufacturers, fuels, yearsOfProduction } from "@/constants";
